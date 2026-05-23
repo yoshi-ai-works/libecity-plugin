@@ -1,0 +1,11 @@
+{
+  "name": "yoshi-ai-works-marketplace",
+  "owner": { "name": "yoshi-ai-works" },
+  "plugins": [
+    {
+      "name": "libecity-pipeline",
+      "description": "リベシティ記事投稿パイプライン（アイデア評価・執筆）",
+      "source": "."
+    }
+  ]
+}

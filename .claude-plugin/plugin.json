@@ -1,0 +1,6 @@
+{
+  "name": "libecity-pipeline",
+  "version": "1.0.0",
+  "description": "リベシティのノウハウ図書館への記事投稿パイプライン。",
+  "author": { "name": "yoshi-ai-works" }
+}
